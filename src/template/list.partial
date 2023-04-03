@@ -1,0 +1,8 @@
+<ul class="list">
+    <li class="item__wrapper">
+        <a href="" class="list__link">
+            <h2 class="item__title"></h2>
+        </a>
+        <small class="item__date"></small>
+    </li>
+</ul>

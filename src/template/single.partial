@@ -1,0 +1,11 @@
+<div class="single">
+    <section class="item__wrapper">
+        <h2 class="item__title"></h2>
+        <small class="item__date"></small>
+    </section>
+    <section class="single__content">
+    </section>
+    <section>
+        <a href='..' onclick="(function(e){e.preventDefault();history.back();})(event)">&#8249;&nbsp;<small>back</small></a>
+    </section>
+</div>
