@@ -1,6 +1,6 @@
 # Blog
 CI/CD test to build and deploy on Github Pages with Github Action.
-This repo is also used to build and deploy on Cloudflare Pages.
+This repo is also used to build and deploy on [Cloudflare Pages](https://blog-1mm.pages.dev/).
 
 __TODO__
 - fix path and directory on Github Pages
